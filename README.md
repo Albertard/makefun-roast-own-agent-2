@@ -1,8 +1,8 @@
 [![make.fun · u-febri-yudila-roast-your-own-agent-f3359068](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
-[![rank](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/Albertard/makefun-roast-own-agent/rank.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
-[![reward](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/Albertard/makefun-roast-own-agent/reward.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
+[![rank](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/Albertard/makefun-roast-own-agent-2/rank.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
+[![reward](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/Albertard/makefun-roast-own-agent-2/reward.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
 
-# roast-own-agent
+# roast-own-agent-2
 
 A program that writes one line roasting the entrant's own AI agent to
 `/output/entry.txt`. Built for the make.fun competition **"Roast Your
